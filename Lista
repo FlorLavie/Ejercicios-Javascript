@@ -1,0 +1,7 @@
+const libro = {
+    titulo: "",
+    autor: "",
+    fecha:13 ,
+    url: 
+}
+const array = [ "Florencia", 27, desarrolo, libro];
